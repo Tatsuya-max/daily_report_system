@@ -20,7 +20,6 @@
                             document.forms[1].submit();
                         }
                     }
-
                 </script>
             </c:when>
             <c:otherwise>
